@@ -1,0 +1,1 @@
+here is a code with a dataset which has a sample reviews of amazon products, using this we can analysis the setiments for data.these code can analysis the sentiments of the data and also has speech recognition 
